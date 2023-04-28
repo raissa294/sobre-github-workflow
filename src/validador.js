@@ -2,6 +2,7 @@
 
 function validar_email(email)
 {
+  console.log("test")
   // escreva seu código aqui
  
 }
