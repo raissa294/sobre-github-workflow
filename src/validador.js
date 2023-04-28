@@ -9,15 +9,15 @@ function validar_email(email)
   
 function validar_cep(cep){
   // escreva seu código aqui
-
+  console.log("test")
 }
 
 function validar_cpf(cpf){
 // escreva seu código aqui
-
+console.log("test")
 }
 
 function validar_telefone(telefone){
   // escreve seu código aqui
-
+  console.log("test")
 }
